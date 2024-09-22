@@ -41,8 +41,8 @@ SLICER 2: **FREQUENCY OF PURCHASE**
 It was shown that the gender with a major turnout between the male and female gender were the **males** with a turnout of **2653 : 1248**
 
 ## CONCLUSION
-- Total revenue generated = $233,132
-- Number of orders receieved = 3901
+- Total revenue generated = **$233,132**
+- Number of orders receieved = **3901**
 - Male gender dominates the target audience
 - Customers are really specific on the colors of products they want
 
