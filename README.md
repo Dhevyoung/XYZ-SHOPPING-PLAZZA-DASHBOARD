@@ -3,7 +3,7 @@
 # INTRODUCTION
 This is a Excel project on the monitoring of buisness activities been done by the company, in terms of product performances and progress made across board.
 
-**_DISCLAIMER_**: _ALL datasets and reports do not represent any company, institution or country, but just a dummy dataset to show my understanding of PowerBi_
+**_DISCLAIMER_**: _ALL datasets and reports do not represent any company, institution or country, but just a dummy dataset to show my understanding of Excel_
 
 ## PROBLEM STATEMENT
 - Product performance
