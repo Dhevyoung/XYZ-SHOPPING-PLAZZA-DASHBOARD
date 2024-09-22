@@ -17,3 +17,7 @@ This is a Excel project on the monitoring of buisness activities been done by th
 - Data sorting & filtering'
 - Removal & Replacement of Values ( Outliers, Blanks)
 - Cell Referencing 
+
+## VISUALIZTION
+A dashboard as been created to answer some of the necessary questions the company seeks to advance into the next level of productivity.
+You can interact with the dashboard 👉 [XYZ SHOPPING PLAZA]
