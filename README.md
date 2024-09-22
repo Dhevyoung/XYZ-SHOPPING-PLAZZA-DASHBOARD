@@ -20,4 +20,4 @@ This is a Excel project on the monitoring of buisness activities been done by th
 
 ## VISUALIZTION
 A dashboard as been created to answer some of the necessary questions the company seeks to advance into the next level of productivity.
-You can interact with the dashboard 👉 [XYZ SHOPPING PLAZA]
+![XYZ](https://github.com/Dhevyoung/XYZ-SHOPPING-PLAZZA-DASHBOARD/blob/main/XYZ%20DASHBOARD.png)
