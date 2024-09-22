@@ -27,8 +27,13 @@ A dashboard as been created to answer some of the necessary questions the compan
 Also some customers didnt give their color choices on an item before purchasing. It was assumed they were okay with any color available as at the time. Hence categorizing those data as **Not Specific**
 
 - Two different slicers were added to show results on all the visuals according to what is been selected
+  
 SLICER 1: **ITEMS PURCHASED**
+
 SLICER 2: **FREQUENCY OF PURCHASE**
 
 - Visual of the top 10 products ordered, **Jeweleries, Pants, and Blouse** are the top selling product with **171 orders** each
 - Top 10 fast selling color choices on products is also presented, with **Olive** coming in first with  **176 product orders** and **Maroon** coming in last **158 product orders**
+- The orders also varies across seasons.
+ Ranking from highest to the least; Spring, Fall, Winter, Summer with 1000, 975, 971, 955 orders respectively.
+- Target audience performance based on gender; It was shown that the gender with a major turnout between the male and female gender were the **males** with a turnout of **2653 : 1248** 
