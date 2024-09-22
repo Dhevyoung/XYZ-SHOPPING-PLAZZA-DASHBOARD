@@ -23,8 +23,8 @@ A dashboard as been created to answer some of the necessary questions the compan
 ![XYZ](https://github.com/Dhevyoung/XYZ-SHOPPING-PLAZZA-DASHBOARD/blob/main/XYZ%20DASHBOARD.png)
 
 ## ANALYSIS
-**_NOTE_** : _**14** Customer's ID data was not made available from the onset of the analysis, so they were flagged and were not represneted in any visual._
-Also some customers didnt give their color choices on an item before purchasing. It was assumed they were okay with any color available as at the time. Hence categorizing those data as **Not Specific**
+**_NOTE_** : _**14** Customer's ID data was not made available from the onset of the analysis, so they were flagged and were not represneted in any visual.
+Also some customers didnt give their color choices on an item before purchasing. It was assumed they were okay with any color available as at the time. Hence categorizing those data as **Not Specific**_
 
 - Two different slicers were added to show results on all the visuals according to what is been selected
   
