@@ -14,7 +14,7 @@ This is a Excel project on the monitoring of buisness activities been done by th
 ## SKILLS/ CONCEPT DEMONSTRATED
 - Datat-type formatting
 - Removal of duplicates
-- Data sorting & filtering'
+- Data sorting & filtering
 - Removal & Replacement of Values ( Outliers, Blanks)
 - Cell Referencing 
 
